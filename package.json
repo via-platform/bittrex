@@ -1,6 +1,6 @@
 {
   "name": "bittrex",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An adapter to connect Via to the Bittrex exchange.",
   "main": "./lib/main",
   "scripts": {
